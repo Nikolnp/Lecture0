@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title> My Web Page! </title>
+  </head>
+  <body>
+
+        html,body{height: 100%; vertical-align: middle; text-align: center;}
+
+        }
+
+        table,th,td{
+          border:1px solid red;
+
+
+        }
+
+        form{text-align: center;
+            margin-top: auto;}
+      h1 {color:	#CCCC00 ; text-align: center;}
+      h4{color: #CCCA00; text-decoration: underline; text-align: center;}
+
+
+  </body>
+ </html>
